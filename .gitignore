@@ -1,4 +1,4 @@
-# ignore every file or folder thats starts with either . or _ but .gitignore
+# ignore every file or folder that starts with either . or _ but .gitignore
 .*
 _*
 !.gitignore
