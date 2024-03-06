@@ -7,7 +7,7 @@
     2: find the even value terms
     3: return the sum of them
 
-    'The Recursive approach'
+    'The loop approach'
 
 */
 
@@ -31,6 +31,12 @@ function sumOfEvenTerms(limit) {
 }
 
 function calculateAndLogSumOfEvenTerms(limit) {
+  /**
+   * Calculates and logs the sum of even terms in the Fibonacci sequence up to a given limit.
+   *
+   * @param {number} limit - The upper limit for the Fibonacci terms.
+   * @returns {number} - The sum of even terms in the Fibonacci sequence.
+   */
   const sum = sumOfEvenTerms(limit);
   console.log(sum);
   return sum;
