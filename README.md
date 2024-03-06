@@ -20,7 +20,7 @@ To run the scripts, you need to have [Node.js](https://nodejs.org/) installed on
 
 
 `n` is the problem number,
-where `x` is the name of the solution you want to run (simple, better, or efficient).
+where `x` is the name of the solution you want to run (simple, improved, or efficient).
 
 # Feedback 
 I welcome any feedback or suggestions on how to improve my solutions or coding style, Thank you :)
