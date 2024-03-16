@@ -1,3 +1,6 @@
+// Problem 1 : https://projecteuler.net/problem=1
+
+
 // Function to check if a number is a multiple of 3 or 5
 function isMultipleOfThreeOrFive(number) {
   // Check if the number is divisible by 3 or 5 using the modulo operator (%)
