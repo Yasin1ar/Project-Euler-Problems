@@ -5,7 +5,7 @@ This repository contains my solutions for the [Project Euler](https://projecteul
 For each problem, I code three scripts:
 
 1. The first one (`n_simple.js`) is the first program that I write that just works. It may not be the most elegant or efficient solution, but it gives the correct answer.
-2. The second one (`n_better.js`) is the improved version of the first program, that is better in readability and performance. I refactor the code, use better variable names, add better comments, and optimize the algorithm.
+2. The second one (`n_improved.js`) is the improved version of the first program, that is better in readability and performance. I refactor the code, use better variable names, add better comments, and optimize the algorithm.
 3. The third one (`n_efficient.js`) is the fastest solution, the most efficient answer, that is not mine. I copy the most efficient code from the [Project Euler](https://projecteuler.net/) site itself after I provide the answer for that problem. I also add some explanation on how the code works and why it is better than mine.
 
 ## Disclaimer
@@ -20,7 +20,7 @@ To run the scripts, you need to have [Node.js](https://nodejs.org/) installed on
 
 
 `n` is the problem number,
-where `x` is the name of the solution you want to run (simple, better, or efficient).
+where `x` is the name of the solution you want to run (simple, improved, or efficient).
 
 # Feedback 
 I welcome any feedback or suggestions on how to improve my solutions or coding style, Thank you :)
