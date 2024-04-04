@@ -33,8 +33,8 @@ function isPalindrome(number) {
 }
 
 let largestPalindrome = 0;
-for (let i = 999; i > 100; i--) {
-  for (let j = 999; j > 100; j--) {
+for (let i = 999; i > 900; i--) {
+  for (let j = 999; j > 900; j--) {
     let number = i * j;
     if (isPalindrome(number)) {
       if (number > largestPalindrome) {
