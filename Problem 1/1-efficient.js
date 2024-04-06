@@ -2,7 +2,7 @@
 
 /*
 
-psudocode for efficient Solution:
+pseudocode for efficient Solution:
 
 target=999
 Function SumDivisibleBy(n)
@@ -11,7 +11,7 @@ return n*(p*(p+1)) div 2
 EndFunction
 Output SumDivisibleBy(3)+SumDivisibleBy(5)-SumDivisibleBy(15)
 
-Solution caught from https://projecteuler.net/overview=0001
+Solution caught from projecteuler.net
 
 */
 

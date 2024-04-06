@@ -1,7 +1,7 @@
 // Problem 2 : https://projecteuler.net/problem=2
 
 // 'The best approach'
-// Solution caught from https://projecteuler.net/overview=0002
+// Solution caught from projecteuler.net
 
 /*
     It is easy to prove that every third Fibonacci number is even.

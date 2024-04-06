@@ -1,7 +1,7 @@
 // Problem 3 : https://projecteuler.net/problem=3
 /*
     The Best Solution
-    caught from https://projecteuler.net/overview=0003
+    Solution caught from projecteuler.net
 
     pseudo code :
 

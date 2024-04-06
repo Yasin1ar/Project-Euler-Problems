@@ -20,7 +20,7 @@
         print largestPalindromeNum
 
 */
-
+// this function gets a number as input and reverses, compares with the original input it then return a boolean
 function isPalindrome(number) {
   let reversedNum = 0;
   let n = number;
@@ -32,6 +32,7 @@ function isPalindrome(number) {
   return number === reversedNum;
 }
 
+// looping until we find the largest palindrome number
 let largestPalindrome = 0;
 for (let i = 999; i > 900; i--) {
   for (let j = 999; j > 900; j--) {
