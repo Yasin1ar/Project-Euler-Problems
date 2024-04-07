@@ -1,7 +1,35 @@
 // Problem 4 : https://projecteuler.net/problem=4
 // The best Approach
 // Solution caught from projecteuler.net
+/*
 
+  function isPalindrome(n)
+      reversed = 0
+      while n > 0
+      reversed = 10*reversed + n mod 10
+      n = n/10
+      return n == reversed
+
+
+  largestPalindrome = 0
+  a = 999
+  while a >= 100
+  if a mod 11 = 0
+  b = 999
+  db = 1
+  else
+  b = 990 //The largest number less than or equal 999
+  //and divisible by 11
+  db = 11
+  while b >= a
+  if a*b <= largestPalindrome
+  break
+  if isPalindrome(a*b)
+  largestPalindrome = a*b
+  b = b-db
+  a = a-1
+  output largestPalindrome
+*/ 
 function isPalindrome(number) {
   let reversedNum = 0;
   let n = number;

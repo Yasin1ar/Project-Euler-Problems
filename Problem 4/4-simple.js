@@ -33,16 +33,16 @@ function isPalindrome(number) {
 }
 
 // looping until we find the largest palindrome number
-let largestPalindrome = 0;
-for (let i = 999; i > 900; i--) {
-  for (let j = 999; j > 900; j--) {
+let largestPalindromeNum = 0;
+for (let i = 999; i > 100; i--) {
+  for (let j = 999; j > 100; j--) {
     let number = i * j;
     if (isPalindrome(number)) {
-      if (number > largestPalindrome) {
-        largestPalindrome = number;
+      if (number > largestPalindromeNum) {
+        largestPalindromeNum = number;
       }
     }
   }
 }
 
-console.log(largestPalindrome);
+console.log(largestPalindromeNum);
