@@ -1,6 +1,6 @@
 // Problem 3 : https://projecteuler.net/problem=3
 /*
-    The Best Solution
+    The efficient Solution
     Solution caught from projecteuler.net
 
     pseudo code :

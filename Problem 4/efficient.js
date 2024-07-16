@@ -1,5 +1,5 @@
 // Problem 4 : https://projecteuler.net/problem=4
-// The best Approach
+// The efficient Approach
 // Solution caught from projecteuler.net
 /*
 

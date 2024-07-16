@@ -1,6 +1,6 @@
 // Problem 2 : https://projecteuler.net/problem=2
 
-// 'The best approach'
+// 'The efficient approach'
 // Solution caught from projecteuler.net
 
 /*
